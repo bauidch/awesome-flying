@@ -45,6 +45,7 @@
 
 ### NOTAMS
 - [Notams](https://github.com/fdesjardins/notams) - Fetch NOTAMs (Notices to Airmen) using Node.js
+- [SNOWTAM](https://github.com/Airport-Discovery/snowtam) - :snowflake: SNOWTAM :airplane: Decoder, and utilities for working with SNOWTAM data
 
 ### Weight and Balance
 - [Gyronimo Apps](https://www.gyronimo.com) `iOS` `PAID`
@@ -62,11 +63,14 @@
 - [Skyhop](https://skyhop.org) - A digital logbook built for glider pilots! ([Source](https://github.com/skyhop))
 - [Aircraft Logbook](https://github.com/odch/aircraft-logbook) - Web application for digital aircraft logbooks
 - [openPilotLog](https://github.com/fiffty-50/openpilotlog) - A FOSS pilot logbook written in C++(Qt5)
+- [Pilot Log](https://github.com/zyv/pilot_log) - Simple Django pilot log webapp
 
-## Fightradar
+## Fightradar/Trackers
 - [flightradar24](https://www.flightradar24.com)
 - [Planefinder](https://planefinder.net)
 - [adsbexchange](https://globe.adsbexchange.com)
+- [TwitterFligthBot](https://github.com/plcnk/TwitterFlightBot)
+- [Open Glider Network](https://www.glidernet.org) - live tracking of gliders, paragliders, UAVs, and other aircraft.
 
 ## Radio
 - [LocalRadio](https://github.com/dsward2/LocalRadio)
@@ -82,13 +86,22 @@
 
 ## APIs
 - [AirportDB](https://airportdb.io) - This is a JSON database that contains about 60k airports with their runways, communication frequencies, navaids, countries, and regions information.
+- [OpenAIP](https://www.openaip.net) - Free Worldwide Aviation Database
 
 ## Multi Tools
-- [flylog](flylog.io)
+- [flylog](https://flylog.io)
 - [flightastic](https://flightastic.com) `Mobile`
+- [ForeFligth](https://foreflight.com) -  Delivers everything a pilot needs for planning, briefing, filing, and logging flights `Mobile` `PAID`
+- [Air Navigation Pro](https://airnavigation.aero/en/) - Air Navigation Pro is a flight planning and real-time aircraft navigation application for individual and professional pilots all over the world. `Mobile` `PAID`
+- [Airbone](https://github.com/daniele-athome/airborne) - Minimal aircraft management app for small groups
+
+## JavaScript Components
+- [Airport Diagram](https://github.com/Airport-Discovery/airport-diagram) `React`
+- [JS flight-indicators](https://github.com/teocci/js-module-flight-indicators)
+- [React flight indicators](https://github.com/starnutoditopo/react-typescript-flight-indicators) - A React + Typescript porting of react-flight-indicators `React` 
 
 ## Not a Tool but also good
-
+- [OurAirports](https://ourairports.com) - a site for discovering and discussing the world's airports
 
 ## Contribute
 
