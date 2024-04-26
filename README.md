@@ -28,6 +28,7 @@
 - [Decent Calculator](https://descent.vercel.app) - Top of descent path calculator. ([Source Code](https://github.com/epranka/descent-app))
 - [Runway Chooser](https://runway.airportdb.io) - Easy way to find the best runway for takeoff or land. Enter airport ICAO code and get runways suggestions based on wind data. ([Source Code](https://github.com/epranka/runway-app))
 - [Flyr](https://myflyr.com) `iOS`
+- [autorouter](https://www.autorouter.aero)
 
 ### Maps
 - [Open Flightmaps](https://www.openflightmaps.org) Free and open source database of aeronautical objects for the rendering of high quality VFR maps
@@ -71,6 +72,8 @@
 - [adsbexchange](https://globe.adsbexchange.com)
 - [TwitterFligthBot](https://github.com/plcnk/TwitterFlightBot)
 - [Open Glider Network](https://www.glidernet.org) - live tracking of gliders, paragliders, UAVs, and other aircraft.
+- [Opensky Network](https://opensky-network.org) Free ADS-B and Mode S data for Research
+- [SafeSky](https://www.safesky.app/en) -Your most interoperable and comprehensive in-flight traffic information solution! `Mobile`
 
 ## Radio
 - [LocalRadio](https://github.com/dsward2/LocalRadio)
@@ -78,7 +81,9 @@
 - [Flare](https://github.com/lyusupov/flare) - Nordic nRF905 , OGN tracker and PilotAware (SV650/Si4432) demodulators. FLARM, OGNTP and P3I decoders.
 
 ## Social
-- [Avinet](https://github.com/frdwhite24/avinet-api) - A social network and online log record for pilots. `WORK IN PRODGRESS`
+- [AviNet](https://www.avinet.app) - Your aviation community, anywhere. `Mobile`
+- [Wingly](https://www.wingly.io/en) - the flight sharing platform. Find pilots or passengers for your trip.
+- [Helipaddy](https://helipaddy.com)  The world’s largest database of off-airfield helicopter landing sites. Includes hotels, restaurants & vineyards in over 60 countries. `Mobile`
 
 ## Simulator
 - [openScope](http://www.openscope.io) - openScope Air Traffic Control Simulator ([Source Code](https://github.com/openscope/openscope))
