@@ -20,7 +20,7 @@
 ## Flight planning
 - [navplan.ch](navplan.ch) - VFR flight planning online. Open-source, non-commercial hobbyist project with a main focus on Switzerland. ([Source Code](https://github.com/opacopac/navplan))
 - [landables_ch](https://github.com/whiteroom/landables_ch) - Flugplatzdaten Segelflug CH
-- [HeliPaddy](https://helipaddy.com) `FREE/PAID`
+- [HeliPaddy](https://helipaddy.com) The world’s largest database of off-airfield helicopter landing sites. Includes hotels, restaurants & vineyards in over 60 countries. `Mobile` `FREE/PAID`
 - [Enroute](https://akaflieg-freiburg.github.io/enroute/) - A free navigation app for VFR pilots ([Source Code](https://github.com/Akaflieg-Freiburg/enroute))
 - [VFR-Flight-Planner](http://www.flyvfr.com) - Automatic planning for VFR flights ([Source Code](https://github.com/amilich/VFR-Flight-Planner))
 - [airport-diagrams](https://github.com/fdesjardins/airport-diagrams) - Fetch airport diagrams from https://www.faa.gov/ using Node.js
@@ -83,7 +83,6 @@
 ## Social
 - [AviNet](https://www.avinet.app) - Your aviation community, anywhere. `Mobile`
 - [Wingly](https://www.wingly.io/en) - the flight sharing platform. Find pilots or passengers for your trip.
-- [Helipaddy](https://helipaddy.com)  The world’s largest database of off-airfield helicopter landing sites. Includes hotels, restaurants & vineyards in over 60 countries. `Mobile`
 
 ## Simulator
 - [openScope](http://www.openscope.io) - openScope Air Traffic Control Simulator ([Source Code](https://github.com/openscope/openscope))
