@@ -17,6 +17,9 @@
 - [APIs](#apis)
 - [Multi Tools](#multi-tools)
 
+## Other Lists
+- [open-source-aviation](https://github.com/lucianosrp/open-source-aviation) - A list of open-source aviation projects and data
+
 ## Flight planning
 - [navplan.ch](navplan.ch) - VFR flight planning online. Open-source, non-commercial hobbyist project with a main focus on Switzerland. ([Source Code](https://github.com/opacopac/navplan))
 - [landables_ch](https://github.com/whiteroom/landables_ch) - Flugplatzdaten Segelflug CH
