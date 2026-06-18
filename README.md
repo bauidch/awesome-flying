@@ -46,6 +46,7 @@
 - [AirportWeatherMonitor](https://wxmonitor.aero) - Airport weather monitor. METAR/TAF parser, Leaflet, Symfony. ([Source Code](https://github.com/dkozickis/AirportWeatherMonitor))
 - [Aviatorsbot](https://www.aviatorsbot.com) - Telegram bot for METAR and TAF weather update subscriptions for pilots ([Source](https://github.com/fvalka/AviatorsBot))
 - [metarr](https://metarr.vercel.app) - React web app to check any airport's METAR ([Source](https://github.com/alrico88/metarr))
+- [Aviation Shop METAR Decoder](https://www.aviationshop.com/pages/metar-decoder) - Free online METAR decoder to read aviation weather like a pilot
 
 ### NOTAMS
 - [Notams](https://github.com/fdesjardins/notams) - Fetch NOTAMs (Notices to Airmen) using Node.js
@@ -102,6 +103,7 @@
 - [ForeFligth](https://foreflight.com) -  Delivers everything a pilot needs for planning, briefing, filing, and logging flights `Mobile` `PAID`
 - [Air Navigation Pro](https://airnavigation.aero/en/) - Air Navigation Pro is a flight planning and real-time aircraft navigation application for individual and professional pilots all over the world. `Mobile` `PAID`
 - [Airborne](https://github.com/daniele-athome/airborne) - Minimal aircraft management app for small groups
+- [Aviation Shop Pilot Tools](https://www.aviationshop.com/pages/aviation-tools) - Free pilot calculators & decoders: METAR, weight & balance, fuel burn, crosswind, density altitude, holding pattern
 
 ## JavaScript Components
 - [Airport Diagram](https://github.com/Airport-Discovery/airport-diagram) `React`
