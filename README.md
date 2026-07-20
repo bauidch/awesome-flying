@@ -110,6 +110,7 @@
 
 ## Not a Tool but also good
 - [OurAirports](https://ourairports.com) - a site for discovering and discussing the world's airports
+- [How to take Aerial Photographs of Hong Kong Disneyland](https://github.com/lincolnlychan/How-to-take-Aerial-Photographs-of-Hong-Kong-Disneyland) - Tutorial/Guide on How to take Aerial Photographs of Hong Kong Disneyland
 
 ## Contribute
 
