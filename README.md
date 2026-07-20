@@ -16,6 +16,7 @@
 - [Simulator](#simulator)
 - [APIs](#apis)
 - [Multi Tools](#multi-tools)
+- [Not a Tool but also good](#Not-a-Tool-but-also-good)
 
 ## Other Lists
 - [open-source-aviation](https://github.com/lucianosrp/open-source-aviation) - A list of open-source aviation projects and data
@@ -110,6 +111,7 @@
 
 ## Not a Tool but also good
 - [OurAirports](https://ourairports.com) - a site for discovering and discussing the world's airports
+- [How to take Aerial Photographs of Hong Kong Disneyland](https://github.com/lincolnlychan/How-to-take-Aerial-Photographs-of-Hong-Kong-Disneyland) - Tutorial/Guide on How to take Aerial Photographs of Hong Kong Disneyland 
 
 ## Contribute
 
