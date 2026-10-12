@@ -50,6 +50,7 @@
 ### NOTAMS
 - [Notams](https://github.com/fdesjardins/notams) - Fetch NOTAMs (Notices to Airmen) using Node.js
 - [SNOWTAM](https://github.com/Airport-Discovery/snowtam) - :snowflake: SNOWTAM :airplane: Decoder, and utilities for working with SNOWTAM data
+- [TaxiwayClosed AI](https://taxiwayclosed.live/) - AI agent that reads an airport's NOTAM package and marks every closed runway and taxiway with a cross on the airport diagram, as a briefing-comprehension and training aid. `Mobile`
 
 ### Weight and Balance
 - [Gyronimo Apps](https://www.gyronimo.com) `iOS` `PAID`
