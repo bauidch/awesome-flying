@@ -102,6 +102,7 @@
 - [ForeFligth](https://foreflight.com) -  Delivers everything a pilot needs for planning, briefing, filing, and logging flights `Mobile` `PAID`
 - [Air Navigation Pro](https://airnavigation.aero/en/) - Air Navigation Pro is a flight planning and real-time aircraft navigation application for individual and professional pilots all over the world. `Mobile` `PAID`
 - [Airborne](https://github.com/daniele-athome/airborne) - Minimal aircraft management app for small groups
+- [Aircraft Ownership Cost Calculator](https://pilot-next.com/tools/aircraft-ownership-cost) - Free calculator for the cost of owning or sharing a GA aircraft: 33 types, five-year P&L, cost per owner and per flight hour.
 
 ## JavaScript Components
 - [Airport Diagram](https://github.com/Airport-Discovery/airport-diagram) `React`
