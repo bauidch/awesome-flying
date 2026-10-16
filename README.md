@@ -104,6 +104,7 @@
 - [Air Navigation Pro](https://airnavigation.aero/en/) - Air Navigation Pro is a flight planning and real-time aircraft navigation application for individual and professional pilots all over the world. `Mobile` `PAID`
 - [Airborne](https://github.com/daniele-athome/airborne) - Minimal aircraft management app for small groups
 - [Aircraft Ownership Cost Calculator](https://pilot-next.com/tools/aircraft-ownership-cost) - Free calculator for the cost of owning or sharing a GA aircraft: 33 types, five-year P&L, cost per owner and per flight hour.
+- [Tail Number Report](https://tailnumberreport.com) - Free FAA registration and NTSB accident history lookup by tail number, with a serial-number cross-match that catches accidents filed under a prior N-number after a re-registration. `FREE/PAID`
 
 ## JavaScript Components
 - [Airport Diagram](https://github.com/Airport-Discovery/airport-diagram) `React`
